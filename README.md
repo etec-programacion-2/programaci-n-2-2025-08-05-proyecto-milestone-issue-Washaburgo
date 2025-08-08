@@ -1,3 +1,2 @@
 Ivan Roth
-Escuela: ETec IC
-Materia: Programacion 2
+Mi Proyecto va a ser de futbol
